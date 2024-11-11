@@ -10,16 +10,16 @@ import './App.css';
 
 const projects = [
   {
-    title: "Project One",
+    title: "Employee Tracker",
     image: "/path-to-project-image1.png",
     deployedLink: "https://deployed-project1.com",
-    githubLink: "https://github.com/username/project1",
+    githubLink: "https://github.com/ChandlerRobinson/Employee-Tracker",
   },
   {
-    title: "Project Two",
+    title: "Vehicle-Builder",
     image: "/path-to-project-image2.png",
     deployedLink: "https://deployed-project2.com",
-    githubLink: "https://github.com/username/project2",
+    githubLink: "https://github.com/ChandlerRobinson/Vehicle-Builder",
   },
   
 ];

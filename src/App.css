@@ -82,7 +82,7 @@ nav ul li a:hover {
 
 /* Centered Content Wrapper */
 .content-wrapper {
-  max-width: 19200px; /* Increased max-width to better fit the page */
+  max-width: 1920px; /* Increased max-width to better fit the page */
   margin: 0 auto;
   padding: 20px;
   display: flex;
