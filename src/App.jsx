@@ -7,11 +7,11 @@ import Resume from './components/Resume/Resume';
 import Footer from './components/Footer/Footer';
 import './App.css';
 
-// Sample project data array
+
 const projects = [
   {
     title: "Project One",
-    image: "/path-to-project-image1.png", // Adjust the path accordingly
+    image: "/path-to-project-image1.png",
     deployedLink: "https://deployed-project1.com",
     githubLink: "https://github.com/username/project1",
   },
@@ -21,7 +21,7 @@ const projects = [
     deployedLink: "https://deployed-project2.com",
     githubLink: "https://github.com/username/project2",
   },
-  // Add more projects as needed
+  
 ];
 
 function App() {
@@ -52,7 +52,7 @@ function App() {
       {currentSection === "Resume" && <Resume />}
       
       <footer>
-        
+
       </footer>
     </div>
   );
